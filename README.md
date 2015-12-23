@@ -40,3 +40,4 @@ bin/phpunit
 
 Release numbers are synchronised with the Selenium versions.
 Version of this release is *v2.46.0*
+
